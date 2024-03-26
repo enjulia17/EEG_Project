@@ -6,6 +6,8 @@
 - https://github.com/enjulia17/EEG_Project/blob/main/Linelength_spike_detector_PYTHON.ipynb - это прямой метод сегментации спайков (статья: https://sci-hub.ru/10.1109/iembs.2001.1020545)
 Исходный репозиторий: https://github.com/Kleen-Lab/Linelength-spike-detector-PYTHON
 
+  Библиотека из исходного репозитория у нас по-нормальному не установилась, поэтому пришлось перенести необходимые функции в наш код
+
 
 - Ещё у нас возникла идея попробовать использовать модель, реализованную в данном репозитории https://github.com/lu-wo/DETRtime , для удаления артефактов, вызванных движением глаз
 
