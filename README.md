@@ -3,8 +3,9 @@
   
   Для исполнения кода нужно, чтобы в папке с кодом были файлы https://github.com/enjulia17/EEG_Project/blob/main/data.zip (датасет, на котором обучали модель) и https://github.com/enjulia17/EEG_Project/blob/main/fold7.P-1D-CNN.186-0.968.h5 (натренированная нами модель)
 
-- https://github.com/enjulia17/EEG_Project/blob/main/Linelength_spike_detector_PYTHON.ipynb - это прямой метод сегментации спайков (статья: https://sci-hub.ru/10.1109/iembs.2001.1020545)
-Исходный репозиторий: https://github.com/Kleen-Lab/Linelength-spike-detector-PYTHON
+- https://github.com/enjulia17/EEG_Project/blob/main/Linelength_spike_detector_PYTHON.ipynb - это прямой метод сегментации спайков (статья: https://sci-hub.ru/10.1109/iembs.2001.1020545).
+  
+  Исходный репозиторий: https://github.com/Kleen-Lab/Linelength-spike-detector-PYTHON
 
   Библиотека из исходного репозитория у нас по-нормальному не установилась, поэтому пришлось перенести необходимые функции в наш код
 
